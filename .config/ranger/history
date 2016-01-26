@@ -1,0 +1,14 @@
+rename 
+filter 
+rename Dorian-Flat-3.16
+find f
+
+open_with r
+rename 166751-Sector-X.tar.gz
+open_with
+delete
+shell 
+rename Sniper
+shell rm -r
+cd .covers/
+open_with 
