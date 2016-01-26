@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/aaf/.mutt'
+let g:netrw_dirhist_2='/home/aaf/.conky'
+let g:netrw_dirhist_3='/home/aaf/.mutt'
+let g:netrw_dirhist_4='/home/aaf/.ncmpcpp'
+let g:netrw_dirhist_5='/etc/X11/xorg.conf.d'
+let g:netrw_dirhist_6='/home/aaf/.config/panel'
+let g:netrw_dirhist_7='/usr/lib/urxvt/perl'
+let g:netrw_dirhist_8='/home/aaf/.covers'
+let g:netrw_dirhist_9='/home/aaf/.i3/conky'
