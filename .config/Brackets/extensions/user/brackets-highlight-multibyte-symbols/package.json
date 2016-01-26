@@ -1,0 +1,22 @@
+{
+    "name": "brackets-highlight-multibyte-symbols",
+    "title": "Highlight Multibyte Symbols",
+    "description": "Highlight multibyte symbols and alphabets.(including Show Whitespace by DennisKehrig) NOTE:Please disable Show Whitespace before installation.",
+    "homepage": "https://github.com/assialiholic/brackets-highlight-multibyte-symbols",
+    "version": "1.0.1",
+    "keywords": ["highlight","multibyte"],
+    "author": "assialiholic <atsushi.handa@assialiholic.net> (https://github.com/assialiholic)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.31.0"
+    },
+    "i18n": [
+        "en",
+        "ja"
+    ],
+    "package-i18n": {
+        "ja":{
+            "description": "全角英数字・記号をハイライト表示します。（Show Whitespaceを内包しているため、無効にしてからインストールしてください）"
+        }
+    }
+}

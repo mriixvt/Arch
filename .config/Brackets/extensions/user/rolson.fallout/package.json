@@ -1,0 +1,15 @@
+{
+    "name": "rolson.fallout",
+    "title": "Fallout",
+    "description": "Greeeetings chilllldren!! I love Fallout. So do you.",
+    "homepage": "https://github.com/rolson73/fallout-theme",
+    "version": "1.0.0",
+    "author": "Randy Olson <rolson@rolson.com>",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}

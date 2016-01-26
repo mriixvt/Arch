@@ -1,0 +1,23 @@
+<li class="row {{even}} {{type}}">
+    <span>
+        <span class="message">{{message}}</span>
+        {{#fileName}}
+        {{#shortFileName}}
+        <a href="#" title="Open details" data-url="{{fileName}}" data-line="{{lineNumber}}" data-column="{{columnNumber}}">{{shortFileName}}</a>
+        {{/shortFileName}}
+        {{/fileName}}
+        <quote>
+            {{#fileName}}
+            <span>
+                <b>{{fileName}}</b>
+                <em>at line: <b>{{lineNumber}}</b>, column: <b>{{columnNumber}}</b></em>
+            </span>
+            {{/fileName}}
+            <span class="stacks">
+            {{#errorStacks}}
+                <small>{{.}}</small>
+            {{/errorStacks}}
+            </span>
+        </quote>
+    </span>
+</li>

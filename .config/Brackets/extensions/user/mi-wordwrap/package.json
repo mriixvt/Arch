@@ -1,0 +1,31 @@
+{
+    "title": "MI word-wrap",
+    "name": "mi-wordwrap",
+    "description": "Simple extension that can set enable / disable word-wrap in brackets editor",
+    "version": "1.0.2",
+    "author": "Tindo Ngoufo Arsel <devtnga@gmail.com>",
+    "homepage": "https://github.com/tnga/extra.brackets-wordwrap",
+    "keywords": ["editor", "document", "word-wrap"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tnga/extra.brackets-wordwrap.git"
+    },
+    "engines": {
+        "brackets": ">=0.44.0"
+    },
+    "i18n": ["en", "es", "de", "it", "fr"],
+    "package-i18n": {
+        "es": {
+             "description": "Una simple extensión que permite activar / desactivar ajuste de línea (word-wrap) en editor Brackets."
+        },
+        "de": {
+            "description": "Einfache Erweiterung die eingestellt werden können aktivieren / deaktivieren Zeilenumbruch in Brackets Editor."
+        },
+        "it": {
+             "description": "Una semplice estensione che permette attivare / disattivare a capo automatico (word-wrap) in editor Brackets."
+        },
+        "fr": {
+             "description": "Une simple extension qui permet d’activer / désactiver le renvoi automatique à la ligne (word-wrap) dans l'éditeur de Brackets."
+        }
+    }
+}

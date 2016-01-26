@@ -1,0 +1,12 @@
+{
+    "name": "qw0101.animations-deactivator",
+    "title": "Animations deactivator",
+    "description": "Disable animations for better perfomance",
+    "homepage": "https://github.com/QW0101/Brackets-animations-deactivator",
+    "version": "1.0.0",
+    "author": "Alexander Taratin <al.qw0101@gmail.com>",
+    "license": "Public Domain",
+    "engines": {
+        "brackets": ">=0.20.0"
+    }
+}

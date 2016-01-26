@@ -1,0 +1,20 @@
+{
+    "name": "brackets-wp-functions-hint",
+    "title": "Brackets Wordpress Hint",
+    "description": "Brackets Wordpress Hint - plugin for Brackets, which will help you in writing Wordpress Themes/Plugins (WooCommerce included)",
+    "homepage": "https://github.com/Tusko/brackets-wp-hint/",
+    "version": "3.0.2",
+    "author": "Tusko Trush <tusko@photoinside.me> (http://frontend.im/)",
+    "license": "MIT",
+    "keywords": [
+		"development",
+        "wordpress",
+        "woocommerce",
+		"theme",
+        "php",
+        "hint"
+    ],
+    "engines": {
+        "brackets": ">=0.41.0"
+    }
+}

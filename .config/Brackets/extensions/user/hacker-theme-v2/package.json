@@ -1,0 +1,22 @@
+{
+    "name": "hacker-theme-v2",
+    "title": "Hacker Theme V2",
+    "description": "Hacker Theme for Brackets",
+    "version": "1.0.0",
+    "author": "Gabriel",
+    "homepage": "https://github.com/GhostThrone/hacker-theme-brackets",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GhostThrone/hacker-theme-brackets"
+    },
+    "keywords": [
+        "dark",
+        "theme",
+        "hacker"
+    ],
+    "theme": {
+        "file": "theme/theme.less",
+        "dark": true,
+        "addModeClass": true
+    }
+}

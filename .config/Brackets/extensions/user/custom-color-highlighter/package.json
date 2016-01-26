@@ -1,0 +1,12 @@
+{
+    "name": "custom-color-highlighter",
+    "title": "CSS - Color Marker",
+    "description": "A versatile color marker for CSS created to help designers/developers view assigned color values without leaving the text-editor or hover insist.",
+    "homepage": "https://github.com/unsyllable/CSS-Color-Marker",
+    "version": "1.0.0",
+    "author": "Ali Raza",
+    "license": "Public",
+    "engines": {
+        "brackets": ">=0.20.0"
+    }
+}

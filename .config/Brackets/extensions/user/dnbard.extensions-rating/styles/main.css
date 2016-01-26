@@ -1,0 +1,133 @@
+select.ext_rating {
+    position: absolute;
+    right: 275px;
+    width: 100px;
+    top: 15px;
+}
+
+span.ext-daily{
+    color: #888;
+    padding: 0px 1px;
+}
+
+.ext-badges{
+    margin: 5px 0 0;
+}
+
+.ext-badges > .ext-badge{
+    padding: 0 5px;
+    margin: 1px 2px 1px 0px;
+    border-radius: 3px;
+    color: white;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 500;
+    vertical-align: bottom;
+}
+
+.dark .ext-badges > .ext-badge {
+    color: black;
+}
+
+.ext-badges > .ext-badge-top{
+    background-color: #8B60DA;
+}
+
+.ext-badges > .ext-badge-trend{
+    background-color: #32B196;
+}
+
+.ext-badges > .ext-badge-adobe{
+    background-color: #9F9F9F;
+}
+
+.ext-badges > .ext-badge-new{
+    background: #87BDC3;
+}
+
+.ext-badges > .ext-badge-100k{
+    background: #ff9900;
+}
+
+.ext-badges > .ext-badge-stars{
+    background-color: #4E93DD;
+}
+
+.ext-badges > .ext-badge-js{
+    background-color: #D5B931;
+    font-weight: bold;
+}
+
+.ext-badges > .ext-badge-css{
+    background-color: #0C73B8;
+    font-weight: bold;
+}
+
+.ext-badges > .ext-badge-html{
+    background-color: #E55126;
+    font-weight: bold;
+}
+
+.ext-badges > .ext-badge-lint{
+    background-color: #ac2377;
+}
+
+.ext-badges > .ext-badge-git{
+    background-color: #F34F29;
+}
+
+.ext-badges > .ext-badge-php{
+    background-color: #6082BB;
+}
+
+.ext-badges > .ext-badge-jade{
+    background-color: #B8DACA;
+}
+
+.ext-badges > .ext-badge-forks{
+    background-color: rgb(94, 168, 60);
+}
+
+.ext-badges > .ext-badge-theme{
+    margin-left: 0px;
+    padding: 0px;
+}
+
+.ext-version .fa{
+    font-size: 14px;
+}
+
+.ext-version .fa-star {
+    font-size: 11px;
+    position: relative;
+    top: 1px;
+}
+
+.ext-version .fa-code-fork {
+    position: relative;
+    top: 2px;
+}
+
+.ext-stars, .ext-forks{
+    margin-right: 2px;
+    margin-left: 5px;
+}
+
+.ext-avatar{
+    background: #f0f0f0;
+    margin-right: 5px;
+    border-radius: 4px;
+    width: 20px;
+}
+
+.ext-name {
+    margin-bottom: 3px !important;
+}
+
+.ext-info {
+    padding-bottom: 20px !important;
+}
+
+.dark .extension-list .muted {
+    color: #777 !important;
+}
